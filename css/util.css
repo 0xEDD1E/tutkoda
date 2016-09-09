@@ -1,0 +1,66 @@
+.devicons-1x {
+  width: 10%;
+  height: 10%;
+}
+
+.devicons-2x {
+  width: 20%;
+  height: 20%;
+}
+
+.devicons-3x {
+  width: 30%;
+  height: 30%;
+}
+
+.devicons-4x {
+  width: 40%;
+  height: 40%;
+}
+
+.devicons-5x {
+  width: 50%;
+  height: 50%;
+}
+
+.devicons-6x {
+  width: 60%;
+  height: 60%;
+}
+
+.devicons-7x {
+  width: 70%;
+  height: 70%;
+}
+
+.devicons-8x {
+  width: 80%;
+  height: 80%;
+}
+
+.devicons-9x {
+  width: 90%;
+  height: 90%;
+}
+
+.devicons-10x {
+  width: 100%;
+  height: 100%;
+}
+
+.inline-stacked {
+  display: inline;
+  padding-left: 15px;
+}
+
+.center-icon {
+  display: block;
+  margin: auto;
+}
+
+.cover-header {
+  font-size: 30px !important;
+  margin-bottom: 10px;
+  color: #777777;
+}
+
